@@ -18,7 +18,7 @@
 		mydata = data;
 
 		//initialize filtermanger
-		 fM = new FilterManager(defaultAttrConfig, mydata);
+		 //fM = new FilterManager(defaultAttrConfig, mydata);
 		 //formM = new FormManager(defaultAttrConfig,"myform-fields", mydata);
 
 		//initialize views
